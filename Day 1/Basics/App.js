@@ -33,7 +33,7 @@ So, JavaScript tries to convert both operands to numbers (if possible) and then 
 -------------------
 Type Coercion is the process where JavaScript automatically converts one data type to another to perform an operation.
 */
-console.log("50" - num2);
+console.log("50" - num2); // out
 
 console.log("---------------***---------------");
 
